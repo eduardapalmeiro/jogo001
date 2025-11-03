@@ -43,7 +43,7 @@ ASSETS = {
 # 🖼️ CARREGAMENTO DE IMAGENS E SONS
 # ----------------------------------------------------------
 # Cores para fallback (caso os arquivos não existam)
-WHITE = (255, 255, 255)
+WHITE = (255, 255, 256)
 RED = (255, 60, 60)
 BLUE = (60, 100, 255)
 
