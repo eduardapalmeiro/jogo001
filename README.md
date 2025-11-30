@@ -4,5 +4,5 @@
 Coming Home
 </h1>
 <p align="center">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget ex vitae libero ultrices volutpat sit amet quis neque. Nulla facilisi. Quisque consectetur mi vel quam lobortis, sit amet faucibus leo sagittis. Vestibulum sed odio semper, maximus dolor at, ullamcorper nisi. Sed ultricies euismod blandit. In congue, diam vel dignissim imperdiet, nibh diam posuere nisl, et condimentum arcu nibh in mauris. Fusce elementum tristique urna, nec auctor libero vestibulum eget.
+O código feito em Python, foi produzido usando de base o código fornecido pelo professor Filipo. Foi separado em variáveis, classes e funções, com um loop principal que faz o jogo rodar. Os assets e mídias estão localizadas na mesma pasta do jogo para melhor otimização em todos os sistemas operacionais.
 </p>
